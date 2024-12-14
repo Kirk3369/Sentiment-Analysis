@@ -109,3 +109,17 @@ ggplot(device_df, aes(x = Var1, y = Freq, fill = Var1)) +
 #The results indicate that the majority of users tweeted from iPhones,
 #with Android devices coming in second, showing only a small gap between them.
 ```
+```{r}
+#USE CASE OF THE ANALYSIS
+
+#Understand how people reacted to and engaged with the event over time.
+#Detect key topics or hashtags that shaped the narrative.
+#Identify peak engagement times to plan content releases.
+#Tailor campaigns based on trending topics or popular keywords.
+#Analyze device usage to infer user demographics and preferences.
+#Target campaigns for specific devices (e.g., iOS vs. Android).
+#For emergencies or tragedies (as suggested by the Itaewon mention), monitor public sentiment and response.
+#Provide actionable insights to policymakers or organizations for timely interventions.
+
+```
+
